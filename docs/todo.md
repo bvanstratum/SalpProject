@@ -16,4 +16,4 @@
 - [x] rotate esp to face down
 - [ ] reroute the traces for the rotated esp
 - [ ] increase solder pad thickness on jst-sh pin diameter 0.54mm and solder pad diameter 1.2mm
-- [ ] change motor controller  to through hole instead of surfac mount
+- [ ] change motor controller  to through hole instead of surfac mount 1.5mm solder pad diameter and 0.75mm hole diameter
