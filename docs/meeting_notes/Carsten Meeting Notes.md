@@ -6,3 +6,6 @@
 
 - Note that the acceptable power loss appears to be the limiting factor more than allowable temperature rise in this case.
 
+## ,2026-2-26> meeting notes
+- Reviewed PCB design
+- goal for next meeting is to have pcb finished
