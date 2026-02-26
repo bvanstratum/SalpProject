@@ -7,6 +7,7 @@
 - [x] drag, flip, rotate, etc to minimize signal crossings
 - [x] Route 20 mil for signal traces 
 - [x] Route 40 mil for power traces (Anything connecting the battery)
-- [ ] either edit board footprint or change part to match jst-sh 6 pin connectors we have in the lab
+- [x] either edit board footprint or change part to match jst-sh 6 pin connectors we have in the lab
 - [ ] loop back and check on the via's under the board for the battery connections
 - [ ] rotate esp to face down
+- [ ] increase solder pad thickness on jst-sh
